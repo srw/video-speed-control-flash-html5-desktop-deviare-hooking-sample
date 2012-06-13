@@ -10,7 +10,7 @@ Instructions
 
 1. [Download and install Deviare](http://www.nektra.com/products/deviare-api-hook-windows/download)
 
-2. [Checkout this code](https://github.com/srw/windows-printer-activity-hooking-sample)
+2. [Checkout this code](https://github.com/srw/video-speed-control-flash-html5-desktop-deviare-hooking-sample)
 
 3. Copy the following Deviare files to bin\x64\Debug and bin\x64\Release
 
