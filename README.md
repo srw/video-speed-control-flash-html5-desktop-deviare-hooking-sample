@@ -12,21 +12,17 @@ Instructions
 
 2. [Checkout this code](https://github.com/srw/video-speed-control-flash-html5-desktop-deviare-hooking-sample)
 
-3. Copy the following Deviare files to bin\x64\Debug and bin\x64\Release
+3. Copy the following Deviare files to bin\x86\Debug and bin\x86\Release
 
 Nektra.Deviare2.dll
 
-DeviareCOM64.dll
+DeviareCOM.dll
 
-DeviareCOM64.X.manifest
+DeviareCOM.X.manifest
 
 DvAgent.dll
 
-DvAgent64.dll
-
 Deviare32.db
-
-Deviare64.db
 
 4. Run Visual Studio (Visual Studio 2008 and Visual Studio 2010 solutions included)
 
